@@ -4,10 +4,10 @@
 This was an exercise designed to see if the eyes could follow the position of the mouse. Both eyes have to follow the mouse simultaneously. 
 
 ## How to Run: 
-In order to run, it is necessary to save the code and insert it into a new browser. You can use the two buttons to add a Pacman and start the game. The different Pacmen will bounce off the screen's borders, and they will move faster if you click on the "start game" button several times. 
+In order to run, move the mouse on the screen to see if the two eyeballs follow the mouse wherever it goes.  
 
 ## Roadmap: 
-I would like to improve by adding different colors to the Pacmen every so often. This could make the program more dynamic. It would also be interesting to add an option to delete the Pacmen if the user clicks on them with the mouse. 
+An option to add a third eye will be included. This option will allow the user to have a more dynamic experience. It would also be interesting to choose the different eye colors and positions according to the user's preference. 
 
 ## License
 
